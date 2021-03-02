@@ -2,6 +2,7 @@
 For GSIF risk team projects
 
 # Details
-Includes (updated 3/1/2021) :
+Includes :
 - AlphaQuery web-scraper
+- ticker-list
 
