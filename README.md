@@ -16,5 +16,5 @@ For GSIF 2021 Summer projects.
 
 ---
 
-Contact mzhu0114@gmail.com or flgsif@gmail.com with any usage inquiries. 
+Contact mzhu0114@gmail.com.
 
